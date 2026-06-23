@@ -1,7 +1,8 @@
 # 💫 About Me:
 ## 💫 About Me<br><br>🔭 **I’m currently working on:**  <br>Building **MVPs and automation systems** that solve real problems using backend development and smart integrations.<br><br>👯 **I’m looking to collaborate on:**  <br>Early-stage startup ideas, SaaS products, automation tools, and real-world problem-solving projects.<br><br>🤝 **I’m looking for help with:**  <br>Product thinking, system scalability, and converting ideas into reliable software.<br><br>🌱 **I’m currently learning:**  <br>- Backend architecture for scalable products  <br>- Database design for real users  <br>- Payment integrations and automation  <br>- Product-focused development<br><br>💬 **Ask me about:**  <br>MVP development, backend systems, automation workflows, and turning ideas into working products.<br><br>⚡ **Fun fact:**  <br>I care more about shipping a useful product than writing perfect code.<br><br>
 
-
+## My Contribution snake
+![Contribution snake example](https://github.com/deepakparashar15/deepakparashar15/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 
   <!-- Snake Animation -->
