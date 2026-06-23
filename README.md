@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 💫 About Me<br><br>🔭 **I’m currently working on:**  <br>Building **MVPs and automation systems** that solve real problems using backend development and smart integrations.<br><br>👯 **I’m looking to collaborate on:**  <br>Early-stage startup ideas, SaaS products, automation tools, and real-world problem-solving projects.<br><br>🤝 **I’m looking for help with:**  <br>Product thinking, system scalability, and converting ideas into reliable software.<br><br>🌱 **I’m currently learning:**  <br>- Backend architecture for scalable products  <br>- Database design for real users  <br>- Payment integrations and automation  <br>- Product-focused development<br><br>💬 **Ask me about:**  <br>MVP development, backend systems, automation workflows, and turning ideas into working products.<br><br>⚡ **Fun fact:**  <br>I care more about shipping a useful product than writing perfect code.<br><br>
-
+## 💫 About Me<br><br>🔭 **I’m currently working on:**  <br>Building **MVPs and automation systems** that solve real problems using backend development and smart integrations.<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakparashar151@gmail.com) 
