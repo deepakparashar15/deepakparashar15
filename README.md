@@ -3,8 +3,8 @@
 
   <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake.svg" alt="snake gif"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakparashar15/deepakparashar15/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/deepakparashar15/deepakparashar15/output/github-snake.svg" alt="snake gif"/>
   </picture>
 
 ## 🌐 Socials:
